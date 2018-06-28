@@ -1,0 +1,9 @@
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\bin\Debug\GPUDetection.exe.config
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\bin\Debug\GPUDetection.exe
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\bin\Debug\GPUDetection.pdb
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\obj\Debug\GPUDetection.csprojAssemblyReference.cache
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\obj\Debug\GPUDetection.csproj.CoreCompileInputs.cache
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\obj\Debug\GPUDetection.exe
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\obj\Debug\GPUDetection.pdb
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\obj\Debug\GPUDetection.csproj.CopyComplete
+D:\Project\GPUDetection\TTT\GPUDetection\GPUDetection\bin\Debug\Newtonsoft.Json.dll

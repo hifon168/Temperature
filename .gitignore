@@ -1,0 +1,17 @@
+#临时文件
+*.vs
+*.dtbcache
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.suo
+*.cache
+#系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#过滤文件夹
+/obj/
+/.vs/
